@@ -78,8 +78,8 @@ The **Support Vector Machine (Linear Kernel)** achieved a **79% accuracy**, maki
 ```
 📦 ML_Project_Loan_Status_Prediction
 │
-├── loan_status_prediction.ipynb # Complete Jupyter Notebook
-├── loan_data.csv # Dataset used for model training
+├── Loan_Status_Prediction.ipynb # Complete Jupyter Notebook
+├── loan_status.csv # Dataset used for model training
 └── README.md # Project documentation
 
 ```
